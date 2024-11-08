@@ -1,34 +1,33 @@
-# 👋 ¡Hola! Soy Raúl
+# 👋 Hi! I'm Raúl
 
-¡Bienvenido a mi perfil de GitHub! Aquí podrás encontrar proyectos en los que he trabajado, enfocados en Data Science, Machine Learning y su aplicación en diferentes áreas como la desigualdad en las ciudades o la salud.
+Welcome to my GitHub profile! Here, you'll find projects I've worked on, focused on Data Science, Machine Learning, and their applications in various areas such as urban inequality and health.
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-    🎓 Bootcamp en Data Science & IA.
-    📊 Apasionado por resolver problemas complejos mediante técnicas de Machine Learning.
-    🎶 Explorador de posibles vínculos entre condiciones socioeconómicas, uso de transporte y renta en ciudades (Madrid). 
+    🎓 Bootcamp in Data Science & AI.
+    📊 Passionate about solving complex problems through Machine Learning techniques.
+    🎶 Exploring possible connections between socioeconomic conditions, transportation use, and income in cities (Madrid).
 
-## 🌟 Proyectos Destacados
-### 🌍 Análisis de Datos para el Desarrollo Regional
+## 🌟 Featured Projects
+### 🌍 Data Analysis for Regional Development
+Data exploration and predictive modeling aimed at understanding and supporting the development of different regions.
 
-Exploración de datos y construcción de modelos predictivos que buscan entender y apoyar el desarrollo de distintas regiones.
+### 🏥 Machine Learning in Health
+Projects focused on applying machine learning algorithms to solve classification and regression problems in the health sector.
 
-### 🏥 Machine Learning en Salud
-Proyectos centrados en aplicar algoritmos de machine learning para resolver problemas de clasificación y regresión en el ámbito de la salud.
+### 🏆 Kaggle Competitions
+Datasets with classification and regression problems, covering topics like predicting laptop prices or identifying loan default risk.
 
-### 🏆 Competiciones de Kaggle
-Datasets con problemas de clasificación y regresión, con diversas temáticas como la predicción del precio de un portátil o saber si un préstamo es susceptible de impago.
+## 🛠️ Tools and Technologies
 
-## 🛠️ Herramientas y Tecnologías
-
-    Lenguajes: Python, SQL
+    Languages: Python, SQL
     Machine Learning: Scikit-Learn, TensorFlow, PyTorch
-    Análisis de Datos: Pandas, NumPy
-    Visualización: Matplotlib, Seaborn
+    Data Analysis: Pandas, NumPy
+    Visualization: Matplotlib, Seaborn
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 
-Si tienes alguna pregunta sobre mis proyectos o quieres colaborar en algún tema relacionado con machine learning y ciencia de datos, no dudes en contactarme:
+If you have any questions about my projects or want to collaborate on a topic related to machine learning and data science, feel free to reach out:
 
 [LinkedIn](www.linkedin.com/in/raulggomez/)
 
