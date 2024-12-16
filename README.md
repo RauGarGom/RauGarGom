@@ -9,8 +9,15 @@ Welcome to my GitHub profile! Here, you'll find projects I've worked on, focused
     🎶 Fields of my projects: LLMs for Education, predictions in Healthcare, and analysis on Transportation and Inequality.
 
 ## 🌟 Featured Projects
+
+### ❤️ vih chatbot
+[vihsible](https://github.com/RauGarGom/llm_vih_chatbot) is a chatbot made as a final team project for the [Spanish LGTBI+ Federation](https://felgtbi.org/). We used Langchain with Cohere LLM in several prompts, that sent information between them in order to know which prompt is to answer the user.
+
+### 💡 DSTrainer
+[DSTrainer](https://github.com/RauGarGom/llm_career_trainer/blob/main/readme.md), another LLM project that uses Mistral to help users train on technical Data Science questions. The model evaluates the answer of the user, gives a numerical grade, and makes a follow-up question, depending on how correct the answer of the user was. 
+
 ### 🏥 Machine Learning in Health
-[Alzheimer: A prediction tool for doctors](https://github.com/RauGarGom/ml_alzheimer_class/blob/main/Readme.md): an app I developed consisting on two classification models: a GradientBoostClassifier (accuracy of 95%), and a Convolutional Neural Network (accuracy of 87%), which detects brains with or without Alzheimer, and it's degree of advancement.
+[AI.lhz: A prediction tool for doctors](https://github.com/RauGarGom/ml_alzheimer_class/blob/main/Readme.md): an app I developed consisting on two classification models: a GradientBoostClassifier (accuracy of 95%), and a Convolutional Neural Network (accuracy of 87%), which detects brains with or without Alzheimer, and it's degree of advancement.
 
 Check out the app from [this link](https://ai-lzh.streamlit.app/)
 
@@ -26,6 +33,7 @@ Some of my code used for Kaggle competitions:
 ## 🛠️ Tools and Technologies
 
     Languages: Python, SQL
+    LLMs: Mistral, Cohere.
     Machine Learning / IA: Scikit-Learn, TensorFlow, PyTorch, LangChain
     Data Analysis: Pandas, NumPy
     Visualization: Matplotlib, Seaborn
