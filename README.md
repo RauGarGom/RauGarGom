@@ -43,7 +43,9 @@ Some of my code used for Kaggle competitions:
 
 If you have any questions about my projects or want to collaborate on a topic related to machine learning and data science, feel free to reach out:
 
+[Email](mailto.raul.garciagomez@hotmail.com)
 [LinkedIn](www.linkedin.com/in/raulggomez/)
+
 
 <!---
 RauGarGom/RauGarGom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
